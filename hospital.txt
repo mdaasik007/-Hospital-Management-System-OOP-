@@ -1,0 +1,35 @@
+Hospital:KMCH
+Hospital Location:Coimbatore
+Patients: Name: Sanjay
+Age: 34
+Medical Record: [Record ID: 501
+Diagnosis: Acute Myocardial Infarction
+Treatement: Angioplasty + Stent] Disease: Heart Attack
+Name: Adhira
+Age: 19
+Medical Record: [Record ID: 502
+Diagnosis: Conjunctivitis
+Treatement: Antibiotic drops] Disease: Eye Infection
+Name: Hari
+Age: 27
+Medical Record: [Record ID: 503
+Diagnosis: Tibia Fracture
+Treatement: Open reduction + internal fixation] Disease: Fractured Leg
+Room: Room NO: 101, Room:General - Free
+Room NO: 205, Room:ICU - Free
+Room NO: 310, Room:Private - Free
+Room NO: 108, Room:General - Free
+Doctor: Dr. Arun, Age: 48 y/o | ID: D001, Specialization: Cardiology
+Dr. Priya, Age: 39 y/o | ID: D002, Specialization: Ophthalmology
+Dr. Karthik, Age: 45 y/o | ID: D003, Specialization: Orthopedics
+Admit Patients: Name: Sanjay
+Age: 34
+Medical Record: [Record ID: 501
+Diagnosis: Acute Myocardial Infarction
+Treatement: Angioplasty + Stent] Disease: Heart Attack
+Name: Hari
+Age: 27
+Medical Record: [Record ID: 503
+Diagnosis: Tibia Fracture
+Treatement: Open reduction + internal fixation] Disease: Fractured Leg
+---------------------------------------------------------
