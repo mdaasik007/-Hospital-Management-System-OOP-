@@ -114,11 +114,4 @@ Developed for educational purposes.
 ⭐ If you found this project useful, consider giving it a star!
 
 
-If you'd like, I can now create:
 
-- 🔥 A **portfolio-optimized README with GitHub badges**
-- 📊 A **UML class diagram**
-- 🎨 A **GitHub profile README** for your main profile page
-- 🏆 A **resume-ready project description**
-
-Just tell me what you want next 🚀
